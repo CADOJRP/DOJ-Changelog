@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Resolved texture loss with Sheriff vehicles.
 
 ### Removed
-- Civilian 2018 Ford F-350
+- Civilian 2018 Ford F-350 (Texture Loss)
 
 
 
