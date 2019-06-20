@@ -3,6 +3,11 @@ All changes to CADOJRP DOJ server will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## 06/21/2019
+### Added
+- Test
+- test
+- testing
 
 ## 06/20/2019
 ### Added
@@ -46,4 +51,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Useless Unused Scripts
 - Tesla Vehicles Due to Texture Loss
-- test
