@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Command: /staffvolume (Sets the staff help/alert volume level)
 - Chat Emojis (Use ``:emojihere:`` in chat. [Emoji List](https://gist.github.com/avery1227/f6bf19266680f0d0582b95a6e92dffc4))
 - Added // Command (Alias of /ooc)
+- Chat Suggestions (Now tells you the parameters and what the commands do)
+- Command: /respawn Location (Location can be city or sandy)
 
 ### Changed
 - Players Slots now 128 (Beta Test)
@@ -25,7 +27,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Civilian 2018 Ford F-350 (Texture Loss)
-
+- Command: /respawncity (Now uses /respawn)
+- Command: /respawnsandy (Now uses /respawn)
 
 
 ## 06/17/2019
