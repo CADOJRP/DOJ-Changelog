@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *New* 2018 Charger for all departments
 
 ### Changed
-- Removed useless textures in YTD's (Texture Dictonaries) to lessen teture loss
+- Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
 
 ## 06/20/2019
 ### Added
