@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *New* LASD 2018 Charger
 - *New* 2018 Charger for all departments
 
-### Changed
+### Removed
 - Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
 
 ## 06/20/2019
