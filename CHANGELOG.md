@@ -4,6 +4,18 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 06/22/2019
+### Added
+- Muted voice chat upon death.
+
+### Changed
+- Nothing
+
+### Removed
+- Nothing
+
+
+
 ## 06/21/2019
 ### Added
 - *New* LASD 2018 Charger
@@ -21,6 +33,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
+
+
 
 ## 06/20/2019
 ### Added
