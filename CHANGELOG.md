@@ -12,10 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - County Frequency in Teamspeak
 - City Frequency in Teamspeak
 - Added Frequency Numbers on the RTO Teamspeak Channels
+- Transparency within Radar System
 
 ### Changed
 - Replaced the AOP Script
 - Replaced Priority Cooldown Script
+- Replaced Radar System
 
 ### Removed
 - Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
