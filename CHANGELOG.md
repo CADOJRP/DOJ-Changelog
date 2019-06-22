@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replaced Radar System
 
 ### Removed
-- Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
+- Removed useless textures in YTD's (Texture Dictionaries) to lessen texture loss
 
 
 
