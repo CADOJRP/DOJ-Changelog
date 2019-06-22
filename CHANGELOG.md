@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *New* LASD 2018 Charger
 - *New* 2018 Charger for all departments
 - New Blaine County/ City Priority Timers
+- County Frequency in Teamspeak
+- City Frequency in Teamspeak
+- Added Frequency Numbers on the RTO Teamspeak Channels
 
 ### Changed
 - Replaced the AOP Script
