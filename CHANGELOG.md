@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - *New* LASD 2018 Charger
 - *New* 2018 Charger for all departments
+- New Blaine County/ City Priority Timers
+
+### Changed
+- Replaced the AOP Script
+- Replaced Priority Cooldown Script
 
 ### Removed
 - Removed useless textures in YTD's (Texture Dictionaries) to lessen teture loss
