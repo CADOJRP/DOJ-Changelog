@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 06/22/2019
 ### Added
 - Muted voice chat upon death.
+- DriveByLimit (Can't shoot out of vehicle above 30 MPH)
 
 ### Changed
 - Nothing
