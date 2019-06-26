@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Banking System (WIP)
 - New Framework System
 
+## 06/26/2019
+### Added
+128 Slots
+
+
 
 ## 06/22/2019
 ### Added
