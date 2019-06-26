@@ -10,7 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 06/26/2019
 ### Added
-128 Slots
+- 128 Slots
+
+### Changed
+- Nothing
+
+### Removed
+- Useless scripts that started with the server
+- Broken Jets that were added
 
 
 
