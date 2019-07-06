@@ -4,9 +4,16 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Upcoming Features
-- New Banking System (WIP)
-- New Framework System
+## 07/05/2019
+### Added
+- 80 Slots
+- Discord Command: ``%profile`` or ``%profile @user``
+
+### Changed
+- Restricted Abuse-prone vMenu Options (Animal Peds, Planes, Helicopters, Supercars, Invisibility, Teleport, GPS, Spectate, Clear Area)
+
+### Removed
+- Nothing
 
 ## 06/26/2019
 ### Added
