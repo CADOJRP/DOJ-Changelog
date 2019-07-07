@@ -4,6 +4,18 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 07/07/2019
+### Added
+- 5 Chat Auto-Messages
+
+### Changed
+- Admin Revive Only for Staff
+- Admin Revive Parameter (Used to revive others)
+
+### Removed
+- Downed Person Message (Needs Script Rewrite)
+- EMS Blips (Needs Script Rewrite)
+
 ## 07/05/2019
 ### Added
 - 80 Slots
