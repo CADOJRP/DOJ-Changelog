@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 07/14/2019
 ### Added
-- New On Duty system
+- New On Duty system (WIP)
 - New Gas System
 - Circles below players feet to indicate who's talking/ Staff/ LEO/ EMS
 - Mod Options back in vMenu
