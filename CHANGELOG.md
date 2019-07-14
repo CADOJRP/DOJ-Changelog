@@ -4,6 +4,35 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 07/14/2019
+### Added
+- New On Duty system
+- New Gas System
+- Circles below players feet to indicate who's talking/ Staff/ LEO/ EMS
+- Mod Options back in vMenu
+
+### Changed
+- Backup Requests (bk codes) now only go to ony duty LEO
+- Voice System, now defaults to 10 Meters
+
+### Removed
+- GoldVIP Firebird (Texture Loss)
+- GoldVIP 1992 GMC Sierra (Texture Loss)
+- GoldVIP NFS Mustang (Texture Loss)
+- GoldVIP Nissan 370Z (Texture Loss)
+- GoldVIP ZR1 Corvette (Texture Loss)
+- 2018 LEO Charger(s)
+- Shield Script (will put back per request, figured it wasn't used)
+- Gas Tax Script as it was for old Gas System
+- Binocular Script
+- 2013 Camaro SS (LEO) (Texture Loss)
+- 2020 F350(s) (LEO) (Texture Loss)
+- 2013 Harley Davidson Electraglide (LEO) (Texture Loss)
+- 2018 Mustang GT (LEO) (Texture Loss)
+- 2015 Caprice (LEO) (Texture Loss)
+- Text in middle of screen showing whos talking
+- LS Customs Script
+
 ## 07/07/2019
 ### Added
 - 5 Chat Auto-Messages
