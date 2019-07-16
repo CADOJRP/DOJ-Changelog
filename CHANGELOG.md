@@ -37,7 +37,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Tackling
 - Cruise Control
 - vEngine
-- 
 
 ## 07/14/2019
 ### Added
