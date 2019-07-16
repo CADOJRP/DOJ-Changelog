@@ -4,6 +4,41 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 07/15/2019
+### Added
+ - Fixed Holster Script (No longer removes vest)
+ - Shots Fired Notification
+ - Ability to give yourself any weapons
+ 
+### Changed
+- Rules
+
+### Removed
+- BK Commands (Will be added back in later)
+- 247 Job 
+- GTA V Loading Transition
+- Welcome Pop-Up
+- Seat Shuffle (Will be added back in later)
+- Weapon Saving
+- Weapon Shops
+- Bleeding Script (Didn't actually work)
+- Damage (Caused the effect after dying)
+- DriveBy (Caused you to not be able to shoot over 30 MPH)
+- Discord Function (Showed you playing CADOJRP instead of FiveM, will be added back in later)
+- vBasic (Controlled AI)
+- AntiAFK System (Caused issues for hostages in RP)
+- Clock on/ off system (Being changed with new Callife system)
+- Lumber hauling out of Paleto
+- Properties Script (Showed who "owned" what)
+- Map Edits (Route 68 Mechanic, Paleto Bay Mechanic, Bank Vault Doors)
+- Weapon Pull (Having to take weapon from car)
+- DVALL
+- Colored Vehicle HUD (Used too much resources)
+- Tackling
+- Cruise Control
+- vEngine
+- 
+
 ## 07/14/2019
 ### Added
 - New On Duty system (WIP)
