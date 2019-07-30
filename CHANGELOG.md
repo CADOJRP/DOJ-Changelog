@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - ELS
  - Wheel Position Saving
  - New format of being paid (being on duty, etc.)
- - 
 
  ### Changed
  - Wiped Economy
