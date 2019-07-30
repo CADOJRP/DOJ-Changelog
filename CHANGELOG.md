@@ -4,8 +4,24 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 07/15/2019
-### Added
+ ## 07/30/2019
+ ### Added
+ - ELS
+ - Wheel Position Saving
+ - New format of being paid (being on duty, etc.)
+ - 
+
+ ### Changed
+ - Wiped Economy
+ - Discord info
+
+ ### Removed
+ - ELSPlus (For stability)
+ - All GoldVIP Trailers
+ - Unused GoldVIP cars
+ 
+ ## 07/15/2019
+ ### Added
  - Fixed Holster Script (No longer removes vest)
  - Shots Fired Notification
  - Ability to give yourself any weapons
