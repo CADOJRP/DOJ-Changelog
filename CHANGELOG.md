@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
  ## 08/20/2019
  ### Added
- - Nothing
+ - LEO Ford Focus RS
  
  ### Changed
  - Nothing
