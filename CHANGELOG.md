@@ -4,6 +4,21 @@ All changes to CADOJRP DOJ server will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 03/21/2020
+### Added
+- 32 Slots
+- New GoldVIP Cars
+- Judge/ Court System
+- LEO Cars
+
+### Changed
+- M Menu
+- Permissions (vMenu)
+
+### Removed
+- Essentialmode
+- Inventory System
+
  ## 08/20/2019
  ### Added
  - LEO Ford Focus RS
@@ -222,19 +237,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Useless Unused Scripts
 - Tesla Vehicles Due to Texture Loss
-
-
-## 03/21/2020
-### Added
-- 32 Slots
-- New GoldVIP Cars
-- Judge/ Court System
-- LEO Cars
-
-### Changed
-- M Menu
-- Permissions (vMenu)
-
-### Removed
-- Essentialmode
-- Inventory System
