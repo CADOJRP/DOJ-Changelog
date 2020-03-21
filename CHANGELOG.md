@@ -222,3 +222,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Useless Unused Scripts
 - Tesla Vehicles Due to Texture Loss
+
+
+## 03/21/2020
+### Added
+- 32 Slots
+- New GoldVIP Cars
+- Judge/ Court System
+- LEO Cars
+
+### Changed
+- M Menu
+- Permissions (vMenu)
+
+### Removed
+- Essentialmode
+- Inventory System
